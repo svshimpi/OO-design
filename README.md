@@ -1,7 +1,12 @@
 # SOLID Design Principles  Example :-
 
 -Single Responsibility Principle
--Open CLosed Principle 
+
+-Open Closed Principle 
+
 -Liskov Substitution Principle 
--Interface Segregation 
--Dependency Inversion 
+
+-Interface Segregation Principle
+
+-Dependency Inversion Principle
+
